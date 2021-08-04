@@ -37,7 +37,7 @@ be written
   (pp (it)))
 ```
 
-Instead of calling an anamorhic form of the `when` test, we mark the
+Instead of calling an anaphoric form of the `when` test, we mark the
 condition explicitly; instead of using the `it` variable, we make a
 call to the `it` function.
 
